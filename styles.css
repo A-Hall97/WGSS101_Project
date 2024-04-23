@@ -16,4 +16,5 @@ figure {
 }
 figure img {
     vertical-align: top;
+    height: 300px;
 }
