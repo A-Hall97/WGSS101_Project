@@ -29,3 +29,8 @@ img {
     flex: 0 0 300px;
     margin-bottom: 20px;
 }
+
+.video {
+    display: flex;
+    justify-content: center;
+}
