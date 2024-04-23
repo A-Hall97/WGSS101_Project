@@ -7,9 +7,16 @@ body {
     background-color: powderblue;
 }
 
-figcaption {
+.indexfigcaption {
     text-align: center;
     font-size: 32px;
+}
+
+.pagefigcaption{
+    font-size: 20px;
+    text-align:center;
+    flex-wrap: wrap;
+    font-style: italic;
 }
 
 img {
