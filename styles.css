@@ -12,9 +12,9 @@ figure figcaption {
 
 figure {
     display: inline-block;
+    height: 300px;
     margin: 20px;
 }
 figure img {
     vertical-align: top;
-    height: 300px;
 }
