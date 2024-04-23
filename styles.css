@@ -18,3 +18,7 @@ img {
     text-align: justify;
     width: 100%;
 }
+
+figcaption {
+    text-align: center;
+}
