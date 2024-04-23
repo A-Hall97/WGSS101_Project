@@ -6,15 +6,12 @@ body {
     background-color: powderblue;
 }
 
-figure figcaption {
+figcaption {
     text-align: center;
 }
 
-figure {
-    display: inline-block;
-    height: 300px;
-    margin: 20px;
-}
-figure img {
-    vertical-align: top;
+img {
+    width: 200px;
+    height: auto;
+    display: block;
 }
