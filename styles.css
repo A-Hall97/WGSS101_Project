@@ -22,3 +22,11 @@ img {
 figcaption {
     text-align: center;
 }
+
+figure {
+    display: inline-block;
+    margin: 20px;
+}
+figure img {
+    vertical-align: top;
+}
