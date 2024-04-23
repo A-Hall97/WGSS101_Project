@@ -6,20 +6,7 @@ body {
     background-color: powderblue;
 }
 
-img {
-    height: 400px;
-    border-radius: 8px;
-    padding-left: 3em;
-    padding-right: 3em;
-    padding-top: 3em;
-}
-
-.img-with-text {
-    text-align: justify;
-    width: 100%;
-}
-
-figcaption {
+figure figcaption {
     text-align: center;
 }
 
