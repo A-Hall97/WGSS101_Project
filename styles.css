@@ -17,3 +17,8 @@ img {
     padding-right: 3em;
     padding-top: 3em;
 }
+
+.img-with-text {
+    text-align: justify;
+    width: 100%;
+}
